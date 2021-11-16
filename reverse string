@@ -1,0 +1,3 @@
+s='edyoda'
+t=s[::-1]
+print(t)
